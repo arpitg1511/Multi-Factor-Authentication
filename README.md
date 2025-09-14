@@ -11,8 +11,7 @@ A secure and user-friendly Multi-Factor Authentication system built using **Node
 - 🧠 Secure password hashing using bcrypt
 - 📱 Compatible with authenticator apps (Google Authenticator, Authy, etc.)
 - 🧾 Session-based login management with Express sessions
-- 🌐 EJS frontend for user interaction
-- 📦 MongoDB Atlas for data persistence
+- 📦 MongoDB Compass for data persistence
 - 🛡️ Protected routes using custom middleware
 
 ---
@@ -26,17 +25,11 @@ A secure and user-friendly Multi-Factor Authentication system built using **Node
 | MongoDB         | NoSQL database                   |
 | Mongoose        | MongoDB ORM                      |
 | Speakeasy       | TOTP-based 2FA                   |
-| bcrypt          | Password hashing                 |
-| EJS             | Frontend templating              |
+| bcrypt          | Password hashing                 |          |
 | Express-Session | Session management               |
 
 ---
 
-## 📸 Screenshots
-
-> _You can insert screenshots here to show registration, login, QR code setup, and OTP verification._
-
----
 
 ## ⚙️ Installation
 
